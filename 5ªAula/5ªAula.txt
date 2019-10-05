@@ -1,0 +1,49 @@
+INTRO TO GUIDES: Interface de usuário
+
+-Analisar os apps que possuem no celular
+-Identificar padrões
+-Mínimo: Analisar 4 apps
+
+	-Interface escura:
+		Moovit
+		Vizer
+	
+	-Interface clara:
+		Mercade Livre
+		Onefootball
+
+	-Spinner lateral:
+		Mercado Livre
+		Moovit
+
+	-Barra de pesquisa:
+		Vizer
+		Mercado Livre
+		Moovit
+
+	-Bottom Navigation:
+		Moovit
+		Vizer
+		Onefootball
+
+	-Login || Cadastro:
+		Moovit
+		Vizer
+		Onefootball
+		Mercado Livre
+
+	-Logo quadrada:
+		Mercado Livre
+		Vizer
+
+	-Logo arredondada:
+		Onefootball
+		Moovit
+
+Site pica: Human Interface Guidelines
+Site pica2: UI Design Do’s and Don’ts
+Site pica3: Material.io
+
+MATERIAL DESIGN AWARDS 2018
+	-EXPRESSION: KptnCook
+	-ADAPTATION: Anchor
